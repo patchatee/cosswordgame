@@ -35,10 +35,10 @@
 
             <TextView
                 android:text="TextView"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView"
-                android:textSize="12sp" />
+                android:textSize="18sp" />
         </LinearLayout>
     </ScrollView>
 
